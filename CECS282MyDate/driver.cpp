@@ -1,10 +1,4 @@
-// testdate.cpp
-// Author: Steven H Gold
-// CECS 282-01 (Mon/Wed)
-// Program #2 due date: Sept 27, 2021
-// 
-//
-//
+
 
 #include "myDate.h" // X-code users change this to myDate.hpp
 #include <iostream>
